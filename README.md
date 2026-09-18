@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6a11cb&height=220&section=header&text=Haseeb%20Ali&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%40+Vega;Full-Stack+Developer+%7C+Cloud+%26+CI%2FCD;AI+%2F+ML+Enthusiast+%7C+Open+Source+Contributor;Computer+Science+Educator+%26+Mentor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%40+Vega;Full-Stack+Developer+%7C+Cloud+%26+CI%2FCD;AI+%2F+ML+Enthusiast+%7C+Open+Source+Contributor;Computer+Science+Educator+%26+Mentor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="480">
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif3.gif">
+<img align="right" width="360" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
 - 🚀 Currently working as a **DevOps Engineer at Vega** — architecting cloud infrastructure and CI/CD pipelines
 - 🎓 BS Software Engineering student at **Ibadat International University Islamabad (IIUI)**
